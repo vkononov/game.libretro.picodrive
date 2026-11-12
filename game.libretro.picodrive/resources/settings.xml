@@ -208,7 +208,7 @@
 			<group id="1">
 				<setting id="picodrive_input1" type="string" label="30014" help="30056">
 					<level>0</level>
-					<default>3 button pad</default>
+					<default>6 button pad</default>
 					<constraints>
 						<options>
 							<option label="30057">3 button pad</option>
@@ -222,7 +222,7 @@
 				</setting>
 				<setting id="picodrive_input2" type="string" label="30015" help="30061">
 					<level>0</level>
-					<default>3 button pad</default>
+					<default>6 button pad</default>
 					<constraints>
 						<options>
 							<option label="30057">3 button pad</option>
